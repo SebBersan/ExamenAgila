@@ -1,5 +1,8 @@
 # ExamenAgila - Mega Sheriffs
 
+## Deltagare
+Amber, Lucas, Emilia, Sebastian, Markiza
+
 ## Länkar
 Trello - [https://trello.com/invite/b/678e0c4774f9f12531ca3f9d/ATTId779c0c873a7386b3722948e6d701a508C45DEAD/examensarbete]
 
